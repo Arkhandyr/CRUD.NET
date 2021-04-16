@@ -1,0 +1,7 @@
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\bin\Debug\CRUD.NET.exe.config
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\bin\Debug\CRUD.NET.exe
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\bin\Debug\CRUD.NET.pdb
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\obj\Debug\CRUD.NET.csprojAssemblyReference.cache
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\obj\Debug\CRUD.NET.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\obj\Debug\CRUD.NET.exe
+C:\Users\Arkhandyr\source\repos\CRUD.NET\CRUD.NET\obj\Debug\CRUD.NET.pdb
